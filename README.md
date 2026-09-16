@@ -206,4 +206,4 @@ Thunderbird Portable is a full free version of the software with all features an
 Get started with Thunderbird Portable today and experience the freedom of managing your emails wherever you go!
 
 ---
-**Last updated:** 2026-09-16 07:27:44 UTC
+**Last updated:** 2026-09-16 13:17:28 UTC
